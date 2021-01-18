@@ -11,6 +11,8 @@ This webinar will present the overall functionality of Yasmine, presented by the
 
 The workshop will take place online, the 25 of february at 2 pm (Europe TZ).
 
+[Add this event to your agenda](eida_yasmine_workshop.ics)
+
 ## Who
 
 Jean-Marie Saurel, from [IPGP](http://www.ipgp.fr/fr), will present Yasmin.
