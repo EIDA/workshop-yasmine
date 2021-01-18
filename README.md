@@ -15,14 +15,14 @@ The workshop will take place online, the 25 of february at 2 pm (Europe TZ).
 
 ## Who
 
-Jean-Marie Saurel, from [IPGP](http://www.ipgp.fr/fr), will present Yasmin.
+Jean-Marie Saurel, from [IPGP](http://www.ipgp.fr/fr), will present Yasmine.
 
 The [Eida](http://www.orfeus-eu.org/data/eida/) Technical Commission is organizing this workshop sessions.
 
 
 ## Subscribe
 
-In order to get the webconference information, please [send us an email](mailto:sympa@groupes.renater.fr?subject=subscribe%20eida-yasmine). You will get the webconference informations some days before.
+In order to get the webconference information, please [send us an email](mailto:sympa@groupes.renater.fr?subject=subscribe%20eida-yasmine%20MyName%20MyInstitute&body=The%20email%20body%20is%20ignored). You will get the webconference informations some days before.
 
 ## Usefull links
 
