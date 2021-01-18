@@ -22,7 +22,7 @@ In order to get the webconference information, please [send us an email](mailto:
 
 ## Usefull links
 
-  - Yasmine source code : https://gitlab.com/resif/yasmine (soon to come)
-  - Yasmine online demo : http://yasmine.isti.com/
-  - Yasmine workshop mailing list : https://groupes.renater.fr/sympa/eida-yasmine
+  - [Yasmine source code](https://gitlab.com/resif/yasmine) (soon to come)
+  - [Yasmine online demo](http://yasmine.isti.com/)
+  - [Yasmine workshop mailing list](https://groupes.renater.fr/sympa/eida-yasmine)
 
