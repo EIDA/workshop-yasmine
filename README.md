@@ -10,7 +10,7 @@ Jean-Marie Saurel, IPGP, will present YASMINE
 
 ## Subscribe
 
-In order to get the webconference information, please subscribe to : mailto:sympa@groupes.renater.fr?subject=subscribe%20eida-yasmine
+In order to get the webconference information, please [send us an email](mailto:sympa@groupes.renater.fr?subject=subscribe%20eida-yasmine)
 
 ## Usefull links
 
