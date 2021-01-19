@@ -15,7 +15,8 @@ The workshop will take place online, the 25 of february at 2 pm (Europe TZ).
 
 ## Who
 
-Jean-Marie Saurel, from [IPGP](http://www.ipgp.fr/fr), will present Yasmine.
+Jean-Marie Saurel, from [IPGP](http://www.ipgp.fr/fr), is an instrumentation engineer with 15 years experience in seismic network operations and management in the French volcano observatories, at Institut de physique du globe de Paris (IPGP).
+He also manages the Résif metadata editor project since 2017. 
 
 The [Eida](http://www.orfeus-eu.org/data/eida/) Technical Commission is organizing this workshop sessions.
 
